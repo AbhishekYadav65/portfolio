@@ -1,9 +1,9 @@
-# Abhishek - AI/ML Engineer Portfolio-ABHI
+# Abhishek - AI/ML Engineer Portfolio-ABHISHEK
 
 A modern, interactive portfolio website showcasing my expertise in AI/ML, hackathon leadership, and innovative projects.
 
 ## 🚀 Live Demo
-[View Portfolio]
+[View Portfolio]knknad
 
 ## 🛠️ Technologies Used
 - **Frontend**: HTML5, CSS3, JavaScript
